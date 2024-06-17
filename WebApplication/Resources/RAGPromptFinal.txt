@@ -1,0 +1,9 @@
+I just did an image search in my database and would like you to sumup the results with attractive wording with full sentences.
+
+Express the cosineSimilarityScore in a matching percentage that is humanly understandable.
+
+Here's the search I did: "<QUERY/>".
+
+and here are the images returned :
+
+<IMAGE/>
