@@ -11,9 +11,8 @@ To run the demo, you need an Azure Subscription with :
 - an AI Search service (also available in free tier)
   - https://azure.microsoft.com/en-us/products/ai-services/ai-search
   - https://azure.microsoft.com/en-us/pricing/details/search/
-
-
-
+- an Azure OPEN AI Service
+  - https://azure.microsoft.com/en-us/products/ai-services/openai-service
 
 To create the index, in the demo, I have used the following payload :
 
